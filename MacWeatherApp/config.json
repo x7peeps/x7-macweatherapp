@@ -1,0 +1,13 @@
+{
+    "api": {
+        "openweather": {
+            "base_url": "http://api.openweathermap.org/data/2.5/weather",
+            "api_key": "your_openweather_api_key_here"
+        }
+    },
+    "app": {
+        "title": "Mac天气查询软件",
+        "version": "1.0.0",
+        "default_unit": "celsius"
+    }
+}
